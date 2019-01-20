@@ -1,0 +1,4 @@
+[submodule "GTDLBenchTemplate"]
+	path = GTDLBenchTemplate
+	url = git@github.com:YanzhaoWu/hugo-theme-docdock.git
+	branch = master

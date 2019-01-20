@@ -9,8 +9,8 @@ This repository maintains the website templates for DiSL projects. You may find 
 
 Several useful tools may help you generate awesome static websites hosted on [Github pages](https://pages.github.com/).
 
-[Hugo](https://gohugo.io/)
-[Jekyll](https://jekyllrb.com/)
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
 
 
 ## Supported Platforms
